@@ -1,7 +1,7 @@
 # 👋 I'm Prajwal Nandaragi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning+Developer;Front+End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="300" alt="Learning GIF"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" alt="Learning GIF"/>
