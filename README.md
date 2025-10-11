@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning+Developer;Front+End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Learning GIF"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" alt="Learning GIF"/>
 </div>
 <br>
 
