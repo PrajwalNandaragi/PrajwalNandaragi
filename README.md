@@ -1,14 +1,10 @@
 # 👋 Hi there, I'm Prajwal Nandaragi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning+Developer;Front+End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in multiple programming languages and machine learning technologies.
 
@@ -29,11 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 
 </div>
 
-- **C** - Systems programming and embedded development
-- **C++** - Object-oriented programming and competitive coding
-- **Python** - Data science, machine learning, and web development
-- **HTML/CSS** - Frontend web development
-- **JavaScript** - Dynamic web applications and interactive interfaces
 
 ### 🛠️ Development Environments & Tools
 
@@ -45,9 +36,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 
 </div>
 
-- **Jupyter Notebook** - Interactive data science and ML development
-- **Google Colab** - Cloud-based ML and data analysis
-- **VS Code** - Code editor and development environment
 
 ### 📊 Data Science & Machine Learning
 
@@ -61,17 +49,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 
 </div>
 
-- **📈 Data Manipulation**: NumPy, Pandas
-- **📊 Data Visualization**: Matplotlib, Seaborn
-- **🤖 Machine Learning**: Scikit-learn
-  - **ML Algorithms**:
-    - 📉 Linear & Logistic Regression
-    - 🌳 Decision Trees & Random Forests
-    - 🎯 Support Vector Machines (SVM)
-    - 🔍 k-Nearest Neighbors (kNN)
-    - 🎯 k-Means Clustering
-    - 🌲 Hierarchical Clustering
-    - 📐 Principal Component Analysis (PCA)
 
 ### 🧠 Deep Learning & Neural Networks
 
@@ -83,12 +60,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 
 </div>
 
-- **⚡ Frameworks**: TensorFlow, PyTorch, Keras
-- **🧠 Neural Networks**:
-  - 🔗 Perceptron & Backpropagation
-  - 🖼️ CNNs (Convolutional Neural Networks) - Image tasks
-  - ⏰ RNNs/LSTMs - Sequence & time-series data
-  - 🔄 Transformers - NLP and vision (advanced)
 
 ## 🎯 What I Do
 
@@ -99,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 I enjoy working on:
 - 🤖 Machine Learning projects and model development
 - 📊 Data analysis and visualization
-- 💻 Full-stack web development
+- 💻 Front-End web development
 - 🔧 System programming and optimization
 - 📈 Building predictive models and data-driven solutions
 
@@ -116,8 +87,8 @@ Currently exploring advanced machine learning techniques and working on projects
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalnandaragi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PrajwalNandaragi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-nandaragi)
+
 
 </div>
 
@@ -150,4 +121,3 @@ Currently exploring advanced machine learning techniques and working on projects
 ⭐ From [Prajwal Nandaragi](https://github.com/PrajwalNandaragi)
 
 </div>
-
