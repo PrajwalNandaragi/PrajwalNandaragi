@@ -1,10 +1,10 @@
 # 👋 I'm Prajwal Nandaragi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning+Developer;Front+End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=I'm+Data+Scientist;I'm+Machine+Learning+Developer;I'm+Front+End+Developer;I'm+Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400" height="300" alt="Learning GIF"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="300" alt="Learning GIF"/>
 </div>
 <br>
 
