@@ -101,12 +101,13 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 ## 🎉 Thanks for Visiting!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="200" alt="Floating GIF"/>
+  <img src="210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg" width="100%" alt="Animated Wave"/>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me;Let's+build+amazing+things+together!;Happy+Coding!+🚀" alt="Thank you message" />
 </div>
+
 
 
 
