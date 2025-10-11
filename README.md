@@ -98,6 +98,16 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalNandaragi&layout=compact&theme=radical&hide_border=false)
 
+## 🎉 Thanks for Visiting!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="200" alt="Floating GIF"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me;Let's+build+amazing+things+together!;Happy+Coding!+🚀" alt="Thank you message" />
+</div>
+
 
 
 
