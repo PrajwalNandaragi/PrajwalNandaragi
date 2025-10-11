@@ -91,7 +91,7 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 <div align="center">
   
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=radical&hide_border=false)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalNandaragi&layout=compact&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=radical&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalNandaragi&layout=compact&theme=radical&hide_border=false)
 
 ## 🎉 Thanks for Visiting!
 
