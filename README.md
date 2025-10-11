@@ -24,8 +24,16 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
+
+- **C** - Systems programming and embedded development
+- **C++** - Object-oriented programming and competitive coding
+- **Python** - Data science, machine learning, and web development
+- **HTML/CSS** - Frontend web development
+- **JavaScript** - Dynamic web applications and interactive interfaces
+- **SQL** - Database management and data querying
 
 
 ### 🛠️ Development Environments & Tools
@@ -91,7 +99,31 @@ Currently exploring advanced machine learning techniques and working on projects
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalNandaragi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalNandaragi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalNandaragi&layout=compact&theme=radical&hide_border=false)
+
+## 📅 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalNandaragi&theme=radical&hide_border=false&area=true)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=PrajwalNandaragi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 Contribution Stats
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=PrajwalNandaragi&label=Profile%20views&color=0e75b6&style=flat)
+
+⭐ From [Prajwal Nandaragi](https://github.com/PrajwalNandaragi)
+
+</div>
+
+
 
 </div>
 
