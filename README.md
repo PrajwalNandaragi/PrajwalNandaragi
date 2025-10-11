@@ -3,7 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning+Developer;Front+End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Learning GIF"/>
+</div>
 <br>
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in multiple programming languages and machine learning technologies.
@@ -63,9 +65,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 
 ## 🎯 What I Do
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" alt="Coding GIF"/>
-</div>
 
 I enjoy working on:
 - 🤖 Machine Learning projects and model development
@@ -75,10 +74,6 @@ I enjoy working on:
 - 📈 Building predictive models and data-driven solutions
 
 ## 🚀 Current Focus
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Learning GIF"/>
-</div>
 
 Currently exploring advanced machine learning techniques and working on projects that combine data science with practical applications.
 
@@ -104,20 +99,3 @@ Currently exploring advanced machine learning techniques and working on projects
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=PrajwalNandaragi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=PrajwalNandaragi&label=Profile%20views&color=0e75b6&style=flat)
-
-⭐ From [Prajwal Nandaragi](https://github.com/PrajwalNandaragi)
-
-</div>
