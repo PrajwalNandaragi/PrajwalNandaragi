@@ -3,9 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=I'm+Data+Scientist;I'm+Machine+Learning+Developer;I'm+Front+End+Developer;I'm+Always+Learning+New+Things" alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="300" alt="Learning GIF"/>
-</div>
 <br>
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in multiple programming languages and machine learning technologies.
@@ -94,19 +91,11 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 <div align="center">
   
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalNandaragi&layout=compact&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=radical&hide_border=false)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalNandaragi&layout=compact&theme=radical&hide_border=false)
 
 ## 🎉 Thanks for Visiting!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa5yAWY4w/giphy.gif" width="100%" alt="Animated Wave"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me;Let's+build+amazing+things+together!;Happy+Coding!+🚀" alt="Thank you message" />
-</div>
 
 
 
