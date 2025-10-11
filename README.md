@@ -101,7 +101,7 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 ## 🎉 Thanks for Visiting!
 
 <div align="center">
-  <img src="210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg" width="100%" alt="Animated Wave"/>
+  <img src="animated-wave.svg" width="100%" alt="Animated Wave"/>
 </div>
 
 <div align="center">
