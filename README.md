@@ -94,13 +94,11 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=tokyonight&hide_border=false&stroke=58A6FF&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalNandaragi&theme=tokyonight&hide_border=false&stroke=58A6FF&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalNandaragi&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalNandaragi&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalNandaragi&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=github-readme-stats)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalNandaragi&theme=tokyonight&hide_border=false&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF)
+
 
 </div>
 
