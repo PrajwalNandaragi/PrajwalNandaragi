@@ -62,6 +62,30 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in multi
 </div>
 
 
+### 🧬 Generative AI, LLMs & RAG
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
+
+
+### 👁️ Computer Vision & Vision-Language Models
+
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=5C3EE8)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black)
+![LLaVA](https://img.shields.io/badge/LLaVA-VLM-8A2BE2.svg?style=for-the-badge&logo=meta&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-FF6B6B.svg?style=for-the-badge&logo=pixiv&logoColor=white)
+
+</div>
+
+
 ## 🎯 What I Do
 
 
@@ -71,10 +95,12 @@ I enjoy working on:
 - 💻 Front-End web development
 - 🔧 System programming and optimization
 - 📈 Building predictive models and data-driven solutions
+- 🧠 Building GenAI apps with RAG, LangChain & Ollama (local LLMs)
+- 👁️ Computer Vision projects using OpenCV, YOLO & Vision-Language Models (LLaVA)
 
 ## 🚀 Current Focus
 
-Currently focusing on **Generative AI** and exploring advanced machine learning techniques. Working on projects that combine data science with practical applications and diving deep into AI model development and deployment.
+Currently focusing on **Generative AI** and exploring advanced machine learning techniques — including **RAG pipelines, LangChain agents, and local LLM deployment with Ollama**. Also diving into **Computer Vision and Vision-Language Models (LLaVA)**, working on projects that combine data science with practical applications in AI model development and deployment.
 
 ## 📫 Get in Touch
 
@@ -102,10 +128,3 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 </div>
 
 ## 🎉 Thanks for Visiting!
-
-
-
-
-
-
-
