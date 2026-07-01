@@ -127,4 +127,4 @@ Currently focusing on **Generative AI** and exploring advanced machine learning 
 
 </div>
 
-## 🎉 Thanks for Visiting!
+##  Thanks for Visiting!
